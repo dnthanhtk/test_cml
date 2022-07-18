@@ -22,4 +22,4 @@ jobs:
           python train.py
           
           echo "MODEL METRICS"
-          cat mectrics.txt
+          cat metrics.txt
